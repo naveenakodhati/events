@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.display-active-container {
+  display: flex;
+  flex-direction: column;
+}
+.display-event-img {
+  width: 50%;
+  align-self: center;
+}
+.display-content {
+  font-size: 20px;
+  text-align: center;
+  color: #475569;
+}
+.button-container {
+  align-self: center;
+}
+.button-el {
+  color: white;
+  background-color: #0967d2;
+  border-radius: 7px;
+  border: 0px;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.registered-desc {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+}
